@@ -1,0 +1,76 @@
+.bd{
+    background-color:aquamarine;
+}
+
+
+.test{
+    color:rgb(0, 4, 255);
+}
+.one{
+    color: brown;
+    font-size: 40px;
+    width: 10%;
+    padding-top: 1cm;
+}
+.second{
+    color: rgb(255, 102, 0);
+    font-size: 30px;
+}
+.three{
+    color:brown;
+    font-size: 35px;
+    font-style: normal;
+}
+.four{
+      color: rgb(216, 238, 20);
+      font-size: 10px;
+}
+.five{
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(255, 0, 187);
+}
+.six{
+    font-size: 15px;
+}
+.seven{
+    color: black;
+    font-size: 10px;
+}
+.eight{
+    font-size: 30px;
+    font-style: normal;
+    color: rgb(255, 0, 187)
+}
+.nine{
+    font-size: 15px;
+}
+.ten{
+    color: black;
+    font-size: 10px;
+}
+.eleven{
+    font-size: xx-large;
+    color:magenta;
+    font-style: italic;
+}
+.org{
+    background-color: orangered;
+    font-size: xx-large;
+}
+.white{
+    background-color: white;
+    font-size: xx-large;
+    color: blueviolet;
+}
+.green{
+    background-color: green;
+    font-size: xx-large;
+}
+.h2{
+    color: yellow;
+}
+.tec{
+    color:coral ;
+    font-size: x-large;
+}
